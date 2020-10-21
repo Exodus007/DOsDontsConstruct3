@@ -1,0 +1,90 @@
+{
+    "c2array": true,
+    "size": [
+        16,
+        1,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Exercise"
+            ]
+        ],
+        [
+            [
+                "Ask for Help"
+            ]
+        ],
+        [
+            [
+                "Intermittent fasting"
+            ]
+        ],
+        [
+            [
+                "EoD Introspection"
+            ]
+        ],
+        [
+            [
+                "Writing"
+            ]
+        ],
+        [
+            [
+                "Video Making"
+            ]
+        ],
+        [
+            [
+                "Doing boring tasks"
+            ]
+        ],
+        [
+            [
+                "Reduce instructions"
+            ]
+        ],
+        [
+            [
+                "Physical action"
+            ]
+        ],
+        [
+            [
+                "Procrastination"
+            ]
+        ],
+        [
+            [
+                "Others perception"
+            ]
+        ],
+        [
+            [
+                "Seek comfortable tasks"
+            ]
+        ],
+        [
+            [
+                "Perfectionism"
+            ]
+        ],
+        [
+            [
+                "Saying Yes"
+            ]
+        ],
+        [
+            [
+                "Go by mind"
+            ]
+        ],
+        [
+            [
+                "Give up on failing"
+            ]
+        ]
+    ]
+}

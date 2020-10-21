@@ -1,0 +1,60 @@
+{
+    "c2array": true,
+    "size": [
+        10,
+        1,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Place the Specimen (Airfoil) to be tested in the wing tunnel"
+            ]
+        ],
+        [
+            [
+                "Check pressure connections and pressure conditions in the inlet tank."
+            ]
+        ],
+        [
+            [
+                "Align the Airfoil at various angles and take readings"
+            ]
+        ],
+        [
+            [
+                "Derive Airfoil Characteristics and determine the Lift generating capabilities and operational range at various angle of attacks."
+            ]
+        ],
+        [
+            [
+                "Don't place bluff bodies in the Mach flow. "
+            ]
+        ],
+        [
+            [
+                "Don't release the pressure valve quickly."
+            ]
+        ],
+        [
+            [
+                "Don't remove the ear plugs, ears can get damaged. "
+            ]
+        ],
+        [
+            [
+                "Don't place hand or stand towards the exit of wind tunnel. "
+            ]
+        ],
+        [
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ]
+        ]
+    ]
+}
